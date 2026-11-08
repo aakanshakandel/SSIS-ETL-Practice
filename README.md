@@ -20,7 +20,7 @@ Using SSIS, I:
 
 **Outcome:** Produced five cleaned, dimension-style Excel lookup files that could be used for further data processing and analysis.
 
-## Question 3 – Data Aggregation and Reporting Using SQL
+## Question 2 – Data Aggregation and Reporting Using SQL
 
 The final task focused on transforming and analysing the loaded data to produce an aggregated report.
 
@@ -32,6 +32,22 @@ I:
 
 **Outcome:** Generated a summary report showing wildlife strike counts by species, demonstrating how SQL can be used to transform raw records into meaningful analytical information.
 
+## Question 3 - Error Output and Error Handling in SSIS
+
+This task focused on implementing error handling within an SSIS Data Flow using the **Error Output** functionality.
+
+The objective was to manage records that encountered errors during data transformation or loading, rather than allowing them to cause the entire ETL process to fail.
+
+Using SSIS Error Output, problematic records could be redirected to a separate output for further investigation, while valid records continued through the main data flow.
+
+**Key Skills Demonstrated:**
+- Configuring Error Output in SSIS.
+- Redirecting rows that fail during data processing.
+- Separating valid and invalid records.
+- Understanding data validation and error handling in ETL pipelines.
+
+**Outcome:** Demonstrated how SSIS Error Output can help identify problematic records and improve the reliability of ETL workflows.
+
 ## Skills Demonstrated
 
 - **ETL Development:** Designing workflows to extract, transform and load data.
@@ -42,4 +58,6 @@ I:
 - **Reporting:** Exporting processed data into Excel for further analysis.
 
 **Technologies Used:** SSIS, SQL Server, SSMS, SQL, Microsoft Excel.
+
+
 
