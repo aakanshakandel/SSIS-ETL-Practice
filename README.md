@@ -18,7 +18,7 @@ Using SSIS, I:
 - Sorted the extracted data.
 - Exported the transformed results into separate Excel files.
 
-**Outcome:** Produced five cleaned, dimension-style Excel lookup files that could be used for further data processing and analysis, including AIRCRAFTS, SPECIES, RUNWAYS, OPERATORS, AIRPORTS.
+**Outcome:** Produced five cleaned, dimension-style Excel lookup files that could be used for further data processing and analysis, including AIRCRAFTS, SPECIES, RUNWAYS, OPERATORS, AIRPORTS. The examples shown are outputted as txt files as there was a system issue at the time of project completion. 
 
 ## Question 2 – Data Aggregation and Reporting Using SQL
 
@@ -30,7 +30,7 @@ I:
 - Sorted the results in descending order to identify species associated with the highest number of strikes.
 - Exported the aggregated results into a new Excel file for reporting.
 
-**Outcome:** Generated a summary report showing wildlife strike counts by species, demonstrating how SQL can be used to transform raw records into meaningful analytical information.
+**Outcome:** Generated a summary report showing wildlife strike counts by species, demonstrating how SQL can be used to transform raw records into meaningful analytical information. It is the strikes_per_species file. 
 
 ## Question 3 - Error Output and Error Handling in SSIS
 
