@@ -18,7 +18,7 @@ Using SSIS, I:
 - Sorted the extracted data.
 - Exported the transformed results into separate Excel files.
 
-**Outcome:** Produced five cleaned, dimension-style Excel lookup files that could be used for further data processing and analysis, including AIRCRAFTS, APECIES, RUNWAYS, OPERATORS. 
+**Outcome:** Produced five cleaned, dimension-style Excel lookup files that could be used for further data processing and analysis, including AIRCRAFTS, SPECIES, RUNWAYS, OPERATORS, AIRPORTS.
 
 ## Question 2 – Data Aggregation and Reporting Using SQL
 
