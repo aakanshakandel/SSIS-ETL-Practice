@@ -1,0 +1,682 @@
+SPECIES,REPORT_NR
+UNKOWN bird,9169
+UNKOWN bird - small,6346
+Mourning dove,3189
+Barn swallow,2539
+Horned lark,2410
+Killdeer,2397
+American kestrel,2082
+UNKOWN bird - medium,1380
+Eastern meadowlark,1238
+European starling,985
+Red-tailed hawk,794
+Cliff swallow,699
+Western meadowlark,608
+Rock pigeon,606
+American robin,563
+Chimney swift,471
+Brazilian free-tailed bat,457
+Savannah sparrow,448
+Sparrows,411
+Gulls,385
+Perching birds (y),371
+Barn owl,371
+UNKOWN bird - large,352
+Microbats,341
+Common nighthawk,320
+Ring-billed gull,302
+Herring gull,253
+Tree swallow,245
+Cattle egret,242
+Swallows,238
+Turkey vulture,227
+Canada goose,226
+Eastern red bat,214
+Red-winged blackbird,213
+Pacific golden-plover,205
+Laughing gull,205
+Swainson's thrush,202
+Yellow-rumped warbler,201
+Mallard,200
+Doves,185
+Bank swallow,181
+Western kingbird,175
+Striped skunk,172
+Coyote,170
+Short-eared owl,162
+Cedar waxwing,157
+Bald eagle,155
+House sparrow,151
+White-throated sparrow,144
+Gray catbird,140
+Osprey,140
+Hawks,138
+Little brown bat,134
+Red-eyed vireo,128
+Meadowlarks,127
+White-headed gull complex,125
+Dark-eyed junco,124
+Peregrine falcon,123
+Brown-headed cowbird,123
+American pipit,122
+American crow,116
+Scissor-tailed flycatcher,110
+Burrowing owl,106
+Hermit thrush,106
+Purple martin,99
+White-tailed deer,99
+Song sparrow,99
+Common yellowthroat,98
+Ovenbird,98
+Zebra dove,97
+Virginia opossum,96
+Great blue heron,95
+White-tailed jackrabbit,95
+Black-tailed jackrabbit,92
+Common grackle,91
+Black vulture,90
+Ruby-crowned kinglet,89
+Big brown bat,87
+American golden-plover,86
+Upland sandpiper,84
+Vesper bats,80
+Least sandpiper,75
+American coot,71
+Wilson's snipe,71
+Franklin's gull,68
+Chipping sparrow,64
+Western sandpiper,61
+House finch,61
+Merlin,61
+Palm warbler,60
+Swamp sparrow,60
+Snow bunting,58
+Cooper's hawk,58
+Hoary bat,58
+American redstart,57
+Gopher snake,56
+Great horned owl,55
+Ducks,54
+Black-bellied plover,54
+Wilson's warbler,53
+White-/golden-crown sparrow complex,53
+Tennessee warbler,53
+Lincoln's sparrow,52
+California gull,52
+Semipalmated sandpiper,52
+Snowy owl,50
+American woodcock,50
+Swainson's hawk,50
+Glaucous-winged gull,49
+Double-crested cormorant,49
+Yellow warbler,48
+American goldfinch,47
+Mountain bluebird,47
+Northern rough-winged swallow,46
+Vesper sparrow,46
+Blackpoll warbler,46
+Yellow-crowned night-heron,45
+White-winged dove,45
+Dunlin,44
+Geese,44
+Eastern cottontail,43
+Red fox,43
+Grasshopper sparrow,42
+Sandpipers, curlews, phalaropes, allies,42
+Northern harrier,41
+Northern flicker,40
+Western gull,40
+Northern mockingbird,40
+Lapland longspur,40
+Northern pintail,40
+Northern parula,39
+Yellow-billed cuckoo,38
+Boat-tailed grackle,38
+Green-winged teal,38
+Sora,37
+Great egret,36
+Veery,36
+New World wood-warblers,36
+Owls,36
+New World vultures,36
+Yellow-bellied sapsucker,35
+Orange-crowned warbler,34
+Sandhill crane,34
+White-crowned sparrow,33
+Black-and-white warbler,33
+Varied thrush,33
+Wood duck,33
+Fox sparrow,32
+Evening bat,32
+Golden-crowned kinglet,32
+White-throated swift,32
+UNKOWN bird or bat,30
+Eurasian collared dove,30
+House wren,30
+Blue-gray gnatcatcher,29
+Raccoon,29
+Northern shoveler,28
+Western tanager,28
+Eurasian skylark,28
+Turtles,28
+Silver-haired bat,28
+Black-crowned night-heron,27
+Gadwall,27
+Baird's sandpiper,27
+Spotted dove,27
+Gray-cheeked thrush,27
+Great black-backed gull,27
+Anhinga,26
+Indigo bunting,26
+Ruddy duck,26
+Eastern wood-pewee,26
+Great-tailed grackle,25
+Eastern kingbird,25
+Mallard/American black duck complex,25
+Least flycatcher,25
+Wood thrush,25
+Common ground dove,25
+Scaly-breasted munia,24
+Black-throated blue warbler,24
+Northern waterthrush,24
+Wild turkey,24
+Snow goose,24
+Lesser scaup,24
+Red-shouldered hawk,24
+Magnolia warbler,23
+Cave swallow,23
+Scarlet tanager,23
+Egrets,23
+Plovers,23
+Semipalmated plover,23
+Common myna,22
+Nashville warbler,22
+Woodchuck,22
+White-tailed kite,22
+Broad-winged hawk,22
+Common raven,21
+Blue-winged teal,21
+Black-tailed prairie dog,21
+Green iguana,21
+Blackbirds,21
+Tyrant (New World) flycatchers,20
+American wigeon,20
+Loggerhead shrike,20
+Pigeons,20
+Alder/willow flycatcher complex,19
+Yellow-breasted chat,19
+Bay-breasted warbler,19
+Pine siskin,19
+Free-tailed bats,19
+Ferruginous hawk,18
+Rose-breasted grosbeak,18
+Vaux's swift,18
+Brown thrasher,18
+Black-throated green warbler,18
+Pacific-slope flycatcher,18
+Crows,18
+Pectoral sandpiper,17
+Spotted sandpiper,17
+Warbling vireo,17
+Cape May warbler,17
+Raptors: Hawks, eagles, vultures, kites, osprey, falcons, caracaras,17
+Rough-legged hawk,17
+Desert cottontail,17
+Painted turtle,17
+Say's phoebe,17
+Ring-necked duck,17
+Brewer's blackbird,16
+Blue jay,16
+Zenaida dove,16
+Eastern bluebird,15
+Mississippi kite,15
+Great crested flycatcher,15
+Black-headed grosbeak,15
+Blue-headed vireo,15
+White ibis,15
+Snakes,14
+Gray bat,14
+Sharp-shinned hawk,14
+Violet-green swallow,14
+Buff-breasted sandpiper,14
+Clay-colored sparrow,14
+Blackburnian warbler,14
+Field sparrow,14
+Brewer's sparrow,14
+Lark sparrow,14
+Ruby-throated hummingbird,14
+Diving duck (Aythya),14
+Yellow bittern,13
+Falcons, kestrels, falconets,13
+Eastern phoebe,13
+Rusty blackbird,13
+American black duck,13
+Seminole bat,13
+Dickcissel,13
+Tri-colored bat,13
+Gopher tortoise,13
+American tree sparrow,12
+Bufflehead,12
+Common snapping turtle,12
+Sanderling,12
+Pied-billed grebe,12
+MacGillivray's warbler,12
+Green heron,12
+Rabbits,12
+Least tern,12
+Yellow-throated warbler,12
+Virginia rail,11
+Bonaparte's gull,11
+Pigeons, doves,11
+Bobolink,11
+Chestnut-sided warbler,11
+Grackles,11
+Cackling goose,11
+Common box turtle,11
+Lark bunting,11
+Herons,11
+California ground squirrel,11
+Yellow-bellied flycatcher,11
+Gray kingbird,11
+Caspian tern,11
+Winter wren,10
+Hummingbirds,10
+Pine warbler,10
+Brant,10
+Orchard oriole,10
+Snowy egret,10
+Prairie warbler,10
+Brown pelican,10
+Cuckoos,10
+Hammond's flycatcher,10
+Nightjars,10
+Snow goose/Ross's goose complex,10
+Purple finch,10
+Hooded merganser,10
+Black-necked stilt,10
+Diamondback terrapin,10
+Common tern,10
+White-rumped sandpiper,10
+Eastern towhee,10
+Western bluebird,9
+Common loon,9
+American white pelican,9
+Finches, euphonias,9
+Chestnut munia,9
+Baltimore oriole,9
+Barred owl,9
+Northern yellow bat,8
+Common swift,8
+Rock wren,8
+Willow flycatcher,8
+Black-bellied whistling-duck,8
+Wrens,8
+Crested caracara,8
+Common gray fox,8
+Muskrat,8
+Black-billed magpie,8
+Black noddy,8
+Greater white-fronted goose,8
+White tern,8
+Greater yellowlegs,8
+American bittern,8
+Black skimmer,8
+Golden eagle,8
+Domestic cat,7
+Shorebirds,7
+Gray partridge,7
+Prairie falcon,7
+Lesser nighthawk,7
+Whimbrel,7
+Thrushes,7
+Sharp-tailed grouse,7
+Mew gull,7
+Swifts,7
+Common poorwill,7
+Brown noddy,7
+Band-tailed pigeon,7
+Ruddy turnstone,7
+Common waxbill,6
+Willet,6
+Antillean nighthawk,6
+Nine-banded armadillo,6
+Wedge-tailed shearwater,6
+Green-tailed towhee,6
+Black-throated sparrow,6
+Mottled duck,6
+Lesser yellowlegs,6
+Yellow-headed blackbird,6
+Hawaiian goose,6
+Redhead,6
+Acadian flycatcher,6
+Sedge wren,6
+Western/Clark's grebe complex,6
+Mockingbirds,6
+Little blue heron,6
+Canada warbler,6
+Chuck-will's-widow,5
+Marsh wren,5
+Olive-sided flycatcher,5
+Solitary sandpiper,5
+Lazuli bunting,5
+Wood stork,5
+Plovers, lapwings,5
+Bonin petrel,5
+Richardson's ground squirrel,5
+Red phalarope,5
+Wilson's phalarope,5
+Magnificent frigatebird,5
+Clapper rail,5
+Western wood-pewee,5
+Marbled godwit,5
+Small Indian mongoose,5
+Finches, Euphonias,5
+Common redpoll,5
+Antillean palm swift,5
+Eared grebe,5
+Spotted towhee,5
+Horned grebe,5
+Brown creeper,5
+Yellow-bellied marmot,5
+Red-necked phalarope,4
+Black francolin,4
+Western grebe,4
+North American porcupine,4
+Cinnamon teal,4
+Red-throated loon,4
+Canvasback,4
+Yellow-throated vireo,4
+Cassin's sparrow,4
+Rufous hummingbird,4
+Golden-crowned sparrow,4
+Skunks,4
+Costa's hummingbird,4
+Greater scaup,4
+Common goldeneye,4
+Ash-throated flycatcher,4
+Red-bellied woodpecker,4
+Ducks, geese, swans,4
+Lagomorphs (rabbits, hares),4
+Greater roadrunner,4
+Mountain chickadee,4
+Indian pipistrelle,4
+Saffron finch,4
+American alligator,4
+Black tern,4
+Glaucous gull,4
+Domestic dog,4
+Common pauraque,4
+Chestnut-collared longspur,4
+Baird's sparrow,4
+UNKOWN terrestial mammal,4
+Black-throated gray warbler,4
+Plains garter snake,4
+Foxes,4
+Common snipe,4
+Red-breasted nuthatch,4
+Lesser goldfinch,3
+Forster's tern,3
+Mule deer,3
+Hooded warbler,3
+Black drongo,3
+White-crowned pigeon,3
+Budgerigar,3
+Nanday parakeet,3
+Northern cardinal,3
+Mute swan,3
+Gray francolin,3
+Western small-footed myotis,3
+Anna's hummingbird,3
+Black rat snake,3
+Long-billed curlew,3
+Red crossbill,3
+Mourning warbler,3
+American avocet,3
+Tricolored heron,3
+Carolina wren,3
+Brown-crested flycatcher,3
+Black kite,3
+Gray flycatcher,3
+Philadelphia vireo,3
+Black-capped chickadee,3
+Scaly-naped pigeon,3
+Lesser black-backed gull,3
+Long-billed dowitcher,3
+Black phoebe,3
+Alligator snapping turtle,3
+Tufted titmouse,3
+Black-chinned hummingbird,3
+Short-billed dowitcher,3
+Swallow-tailed kite,3
+Black-billed cuckoo,3
+Alder flycatcher,3
+Western diamondback rattlesnake,3
+Pacific wren,3
+Glossy ibis,3
+Worm-eating warbler,3
+Brandt's cormorant,3
+Townsend's warbler,3
+Downy woodpecker,3
+Sandwich tern,3
+Striped mud turtle,2
+Swine (pigs),2
+Vireos,2
+Belted kingfisher,2
+White-eyed vireo,2
+Crows, ravens,2
+Eastern whip-poor-will,2
+Spotted thick-knee,2
+Egyptian free-tailed bat,2
+California myotis,2
+Long-eared owl,2
+Cactus wren,2
+Larks,2
+Purple gallinule,2
+Western pipistrelle,2
+Pond slider,2
+Dusky flycatcher,2
+Herons, egrets, bitterns,2
+Fairy tern,2
+Sulphur-bellied flycatcher,2
+Pallas's mastiff bat,2
+Noddies,2
+Gray heron,2
+Bullock's oriole,2
+Mallard/mottled duck complex,2
+Ornate box turtle,2
+White-tailed tropicbird,2
+Red-breasted merganser,2
+Common house-martin,2
+Muscovy duck,2
+Swainson's warbler,2
+American oystercatcher,2
+Northern goshawk,2
+Rufous-tailed robin,2
+Insect,2
+Common eider,2
+Surf scoter,2
+Cassin's finch,2
+Red-vented bulbul,2
+Limpkin,2
+Sagebrush sparrow,2
+LeConte's sparrow,2
+Kites, eagles, hawks,2
+White-winged scoter,2
+King rail,2
+Stilt sandpiper,2
+Long-billed thrasher,2
+Great gray owl,2
+Blue grosbeak,2
+Reddish egret,2
+Petrels,2
+Ring-necked pheasant,2
+Spotted bat,2
+Connecticut warbler,2
+Quails, pheasants,2
+Spiny softshell turtle,2
+Yellow-fronted canary,2
+Black-headed gull,2
+African silverbill,2
+Indiana bat,2
+Cassin's vireo,2
+Seaside sparrow,2
+Red-masked parakeet,2
+Pelicans,2
+Eared dove,2
+Nelson's sparrow,2
+Eastern gray squirrel,1
+Long-tailed jaeger,1
+African collared dove,1
+Red-necked grebe,1
+Thick-billed kingbird,1
+Monk parakeet,1
+Sooty mustached bat,1
+Angolan free-tailed bat,1
+Meadow pipit,1
+Swans,1
+Wagner's bonneted bat,1
+Brown bear,1
+Willow ptarmigan,1
+Common merganser,1
+Horse,1
+Common gallinule,1
+Gray vireo,1
+Blue-tailed bee-eater,1
+Laysan albatross,1
+Western mastiff bat,1
+California quail,1
+Lesser bulldog bat,1
+Black-crowned sparrow lark,1
+Greenish warbler,1
+Sprague's pipit,1
+Harris's hawk,1
+Townsend's solitaire,1
+Northern gannet,1
+Elegant tern,1
+Black-headed gull complex,1
+Philippine collared dove,1
+Grebes,1
+Cerulean warbler,1
+Oriental turtle dove,1
+Double-striped thick-knee,1
+Eastern small-footed myotis,1
+Eurasian buzzard,1
+Least weasel,1
+Short-billed gull,1
+Diamondback water snake,1
+Sage thrasher,1
+Hermit warbler,1
+Collared peccary,1
+Corn crake,1
+Grey-headed flying fox,1
+Common kingsnake,1
+White-faced ibis,1
+Lesser whitethroat,1
+Louisiana waterthrush,1
+Roadrunners,1
+Gray-tailed tattler,1
+Axis deer,1
+Long-tailed duck,1
+Red-crowned amazon,1
+Couch's kingbird,1
+Western hognose snake,1
+Mynas,1
+Blue-black grassquit,1
+Fish crow,1
+Lanceolated warbler,1
+Prothonotary warbler,1
+Olive-backed pipit,1
+Piping plover,1
+Lesser sand-plover,1
+Kentish plover,1
+Prairie dogs, marmots, squirrels,1
+Rose-ringed parakeet,1
+Red-breasted sapsucker,1
+Carolina chickadee,1
+Lawrence's goldfinch,1
+Gray sac-winged bat,1
+Pheasants,1
+Red-naped sapsucker,1
+Sooty tern,1
+Barrow's goldeneye,1
+Evening grosbeak,1
+Terns, noddies,1
+Summer tanager,1
+Scaled quail,1
+Neotropic cormorant,1
+Rainbow lorikeet,1
+Marbled murrelet,1
+Common wood-pigeon,1
+Killdeer (Charadrius vociferus),1
+Red avadavat,1
+Cordilleran flycatcher,1
+Rails,1
+Redwing,1
+Florida softshell turtle,1
+Eurasian moorhen,1
+Frigatebirds,1
+Loggerhead kingbird,1
+Golden-winged warbler,1
+Long-eared myotis,1
+Common chaffinch,1
+Red-footed booby,1
+Painted bunting,1
+California kingsnake,1
+Greater Antillean grackle,1
+Snowy plover,1
+Thick-billed longspur,1
+River cooter,1
+Kentucky warbler,1
+Ruffed grouse,1
+Ibises,1
+Mauritian tomb bat,1
+Antelope jackrabbit,1
+Grouse,1
+Western marsh harrier,1
+Parrots,1
+Spur-winged lapwing,1
+Short-tailed hawk,1
+Java sparrow,1
+Chihuahuan meadowlark,1
+Hawaiian petrel,1
+Old World vultures,1
+Hudsonian godwit,1
+Northern bobwhite,1
+Kirtland's warbler,1
+Song thrush,1
+Least bittern,1
+Allen's hummingbird,1
+Royal tern,1
+Sinaloan mastiff bat,1
+Woodpeckers,1
+Gull-billed tern,1
+Northern saw-whet owl,1
+Gulls, terns, kittiwakes,1
+Dark-billed cuckoo,1
+Eagles,1
+Virginia's warbler,1
+European goldfinch,1
+Tundra swan,1
+Brown booby,1
+Prairie dogs,1
+Speckled pigeon,1
+Pocketed free-tailed bat,1
+Red-crested cardinal,1
+Flammulated owl,1
+Partridges,1
+Great kiskadee,1
+Black swift,1
+Mountain cottontail,1
+White-winged swallow,1
+Cormorants,1
+Little swift,1
+Long-legged myotis,1
+Mink,1
+Greater sage-grouse,1
+Mitred Parakeet,1
+Ross's goose,1
+Pygmy nuthatch,1
+Wilson's plover,1
+Eastern screech-owl,1
+Eastern hognose snake,1
+Clark's grebe,1
